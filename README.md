@@ -1,45 +1,27 @@
 <h1 align="center">⚛️ Clonebot - Heroku/Railway/Qovery version ⚡<br></h1> 
-
-<br />
-
 <p align="center">CloneBot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
-
-<!-- > ## A simple bot to copy and duplicate team drives -->
 <p align="center">
   <img src="https://i.imgur.com/QkxmCOp.png" />
 </p>
 
-<br />
-
-#### ✅ Advantages
-- Use server side copy
-- Bypass the 750Gb a day limit thanks to Service accounts
-- Duplicate team drive
-- Copy public folders & files to team drives
-- [Host it to Railway]
-- [Host it to Qovery]
-- [Host it to heroku](https://github.com/MsGsuite/CloneBot_Heroku)
-
-#### ❌ Drawbacks
-- Does not support files upload (only copy)
-- You cannot copy the data to My Drive
-
-Note : there are hidden features, check at the source code of the bot to find them 🙃
-
-<br/>
-
-### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
-<br/><br/>
-
-## 💠 Host the bot on your computer
-
---> https://github.com/MsGsuite/CloneBot
-<br/><br/>
-
-## 📱 Run the bot on your phone using termux
-
---> https://telegra.ph/Clone-Bot-Termux-04-30
-<br/><br/>
+<h2><b>✅ Advantages</b></h2>
+<p><b>
+- Use server side copy<br>
+- Bypass the 750Gb a day limit thanks to Service accounts<br>
+- Duplicate team drive<br>
+- Copy public folders & files to team drives<br>
+</b></p>
+<h2><b>❌ Drawbacks</b></h2>
+<p><b>
+- Does not support files upload (only copy)<br>
+- You cannot copy the data to My Drive<br>
+</b></p>
+<!---Host on Computer/PC--->
+<h2>🖥️Host the bot on your computer</h2>
+<h4><b>Learn More about it: <a href="https://github.com/TheCaduceus/CloneBot/blob/main/Host-on-Computer.md" alt="Host-Computer">Read Here</a></b></h4>
+<!---Host on Computer/PC--->
+<!---Host on Termux--->
+<h2>📱 Run the bot on your phone using termux</h2>
 
 ## ⚛️ Deploying on Heroku
 
