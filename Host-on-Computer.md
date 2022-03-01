@@ -13,6 +13,6 @@ group_ids = your telegram group ID (leave it blank if you don't want to add one)
 gclone_para_override = leave this empty if you don't know how to use it
 ```
 3.Click on Deploy app...
-4.When it's over, go to : https://dashboard.heroku.com/apps/YOURAPPNAME/resources (replace YOURAPPNAME by your appname 🙃)
-5.Then click on the ✏ and check $0.00 option and click on confirm.
-6.Now you can start your bot !
+4.When it's over, go to : https://dashboard.heroku.com/apps/YOURAPPNAME/resources (replace YOURAPPNAME by your appname 🙃)<br>
+5.Then click on the ✏ and check $0.00 option and click on confirm.<br>
+6.Now you can start your bot !<br>
